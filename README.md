@@ -20,7 +20,7 @@ I'm a medical doctor, digital health advocate, and program manager focused on bu
 - Responsive layout for desktop and mobile
 
 ## 🌐 Live Site
-Visit the portfolio here 👉 
+Visit the portfolio here 👉 https://github.com/conniedibo/portfoliochallenge.git
 
 ## 📁 Assets
 - `index.html` – main structure of the site
